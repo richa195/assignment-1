@@ -1,0 +1,40 @@
+leereilly/games
+A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+Updated 9 days ago
+13.9k
+----------------------------
+CharlesPikachu/Games
+Some games created by python code.
+Python
+1.2k
+----------------------------
+channingbreeze/games
+\u4e00\u4e2a\u57fa\u4e8ePhaser\u7684\u5c0f\u6e38\u620f\u96c6\u5408
+JavaScript
+949
+----------------------------
+rwv/chinese-dos-games
+Chinese DOS games in browser.
+Python
+5.3k
+----------------------------
+google/blockly-games
+Games for tomorrow's programmers.
+866
+----------------------------
+playgameservices/play-games-plugin-for-unity
+Google Play Games plugin for Unity
+2.6k
+----------------------------
+recastnavigation/recastnavigation
+Navigation-mesh Toolset for Games
+3.1k
+----------------------------
+craftyjs/Crafty
+JavaScript Game Engine
+2.8k
+----------------------------
+google/liquidfun
+2D physics engine for games
+3.9k
+----------------------------
